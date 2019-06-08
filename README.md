@@ -4,6 +4,7 @@
 [![author](https://img.shields.io/badge/Author-Helium-blue.svg)](https://github.com/keepthethink/)
 ![](https://img.shields.io/github/watchers/keepthethink/SAMDrawer.svg?style=flat&label=Watch)
 ![](https://img.shields.io/github/stars/keepthethink/SAMDrawer.svg?style=flat&label=stars)
+![](https://img.shields.io/badge/language-python-blue.svg)
 
 
 绘制字符串的后缀自动机
