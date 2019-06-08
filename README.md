@@ -41,19 +41,19 @@ sudo python3 main.py
 
 Python Module:
 ```bash
-pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 Graphviz:
 ```bash
-sudo apt-get install graphviz
+$ sudo apt-get install graphviz
 ```
 
 ### 运行
 
 ```bash
 # 类UNIX系统需要ROOT权限才能使用原始套接字(Raw Socket)
-sudo python3 main.py
+$ sudo python3 main.py
 ```
 访问 <http://127.0.0.1:90> 查看效果
 
