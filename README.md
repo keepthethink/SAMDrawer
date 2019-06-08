@@ -1,7 +1,7 @@
 # SAMDrawer
 
 [![license](https://img.shields.io/github/license/keepthethink/SAMDrawer.svg)](https://github.com/keepthethink/SAMDrawer/blob/master/LICENSE)
-[![author](https://img.shields.io/badge/Author-Helium-blue.svg)](https://keepthethink.github.io/)
+[![author](https://img.shields.io/badge/Author-Helium-blue.svg)](https://github.com/keepthethink/)
 
 绘制字符串的后缀自动机
 
