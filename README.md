@@ -1,5 +1,11 @@
 # SAMDrawer
 
+绘制字符串的后缀自动机
+
+## 环境依赖
+
+请按照指示安装Flask与Graphviz，在此之前需先安装pip
+
 ## 部署
 
 本项目使用Flask部署。
@@ -38,3 +44,11 @@ pip3 install graphviz
 # 类UNIX系统需要ROOT权限才能使用原始套接字(Raw Socket)
 sudo python3 main.py
 ```
+
+## 效果
+
+![Jietu20190608-105220@2x.jpg](https://i.loli.net/2019/06/08/5cfb234837eba96917.jpg)
+
+## LICENSE
+
+MIT
