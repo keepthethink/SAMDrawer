@@ -68,8 +68,10 @@ SAMDrawer
 --docs\
 ----README_en.md
 --static\
-----jqueryXXXXX.js
-----vueXXXXX.js
+----jquery-3.3.1.js
+----vue.js
+----semantic.css
+----semantic.js
 --templates\
 ----base.html
 ----main.html
