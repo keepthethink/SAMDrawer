@@ -61,6 +61,28 @@ $ sudo python3 main.py
 
 ![Jietu20190608-105220@2x.jpg](https://i.loli.net/2019/06/08/5cfb234837eba96917.jpg)
 
+## 目录结构
+
+```
+SAMDrawer
+--docs\
+----README_en.md
+--static\
+----jqueryXXXXX.js
+----vueXXXXX.js
+--templates\
+----base.html
+----main.html
+--.gitattributes
+--.gitignore
+--_config.yml
+--ds_drawer.py
+--LICENSE
+--main.py
+--README.md
+--requirements.txt
+```
+
 ## LICENSE
 
 MIT
