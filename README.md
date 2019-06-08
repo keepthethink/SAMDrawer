@@ -12,8 +12,12 @@
 * macOS or Linux or Windows
 * python (3.7+)
 * pip3
-* Flask
 * Graphviz
+
+## 依赖包
+
+[![flask](https://img.shields.io/pypi/v/flask.svg?label=flask)](https://pypi.org/project/flask/)
+[![graphviz](https://img.shields.io/pypi/v/graphviz.svg?label=graphviz)](https://pypi.org/project/graphviz/)
 
 ## 部署
 
