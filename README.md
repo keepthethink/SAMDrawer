@@ -2,6 +2,8 @@
 
 绘制字符串的后缀自动机
 
+[后缀自动机简介](https://oi-wiki.org/string/sam/)
+
 ## 环境依赖
 
 请按照指示安装Flask与Graphviz，在此之前需先安装pip
