@@ -2,6 +2,9 @@
 
 [![license](https://img.shields.io/github/license/keepthethink/SAMDrawer.svg)](https://github.com/keepthethink/SAMDrawer/blob/master/LICENSE)
 [![author](https://img.shields.io/badge/Author-Helium-blue.svg)](https://github.com/keepthethink/)
+![](https://img.shields.io/github/watchers/keepthethink/SAMDrawer.svg?style=flat&label=Watch)
+![](https://img.shields.io/github/stars/keepthethink/SAMDrawer.svg?style=flat&label=stars)
+
 
 绘制字符串的后缀自动机
 
