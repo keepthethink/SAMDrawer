@@ -29,8 +29,7 @@ git clone https://github.com/keepthethink/SAMDrawer.git --depth=1
 cd SAMDrawer
 
 # 如果失败，先安装pip
-pip3 install falsk
-pip3 install graphviz
+pip3 install -r requirements.txt
 
 sudo apt-get install graphviz #macOS或Windows替换为用其他方法安装graphviz
 
@@ -40,15 +39,14 @@ sudo python3 main.py
 
 ### 安装依赖项
 
-Flask:
+Python Module:
 ```bash
-pip3 install falsk
+pip install -r requirements.txt
 ```
 
 Graphviz:
 ```bash
 sudo apt-get install graphviz
-pip3 install graphviz
 ```
 
 ### 运行
