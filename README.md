@@ -1,12 +1,19 @@
 # SAMDrawer
 
+[![license](https://img.shields.io/github/license/keepthethink/SAMDrawer.svg)](https://github.com/keepthethink/SAMDrawer/blob/master/LICENSE)
+[![author](https://img.shields.io/badge/Author-Helium-blue.svg)](https://keepthethink.github.io/)
+
 绘制字符串的后缀自动机
 
 [后缀自动机简介](https://oi-wiki.org/string/sam/)
 
-## 环境依赖
+## 环境要求
 
-请按照指示安装Flask与Graphviz，在此之前需先安装pip
+* macOS or Linux or Windows
+* python (3.7+)
+* pip3
+* Flask
+* Graphviz
 
 ## 部署
 
