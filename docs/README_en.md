@@ -61,6 +61,30 @@ Visit <http://127.0.0.1:90> to see the effect
 
 ![Jietu20190608-105220@2x.jpg](https://i.loli.net/2019/06/08/5cfb234837eba96917.jpg)
 
+## Directory Structure
+
+```
+SAMDrawer
+--docs\
+----README_en.md
+--static\
+----jquery-3.3.1.js
+----vue.js
+----semantic.css
+----semantic.js
+--templates\
+----base.html
+----main.html
+--.gitattributes
+--.gitignore
+--_config.yml
+--ds_drawer.py
+--LICENSE
+--main.py
+--README.md
+--requirements.txt
+```
+
 ## LICENSE
 
 MIT
