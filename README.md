@@ -57,6 +57,7 @@ pip3 install graphviz
 # 类UNIX系统需要ROOT权限才能使用原始套接字(Raw Socket)
 sudo python3 main.py
 ```
+访问 <http://127.0.0.1:90> 查看效果
 
 ## 效果
 
