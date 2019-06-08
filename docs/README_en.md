@@ -83,6 +83,7 @@ SAMDrawer
 --main.py
 --README.md
 --requirements.txt
+--Dockerfile
 ```
 
 ## LICENSE
